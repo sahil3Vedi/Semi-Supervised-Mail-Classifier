@@ -8,3 +8,5 @@
 6. Form the new Feature Vectors by running Feature_Vectors.ipynb next
 7. Manually annotate the labels by running Active_Training.ipynb next
 8. Train classifiers for Formal/Informal Classification by running ActiveTesting.ipynb
+9. Train Context Classifier by running Context_Training.ipynb notebook
+10. Generate Responses by running the Response_Generation.ipynb notebook
